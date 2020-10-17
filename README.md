@@ -1,2 +1,4 @@
 # PD-Patient
-Web application for Parkinson’s disease users using Authentication services
+Web application for Parkinson’s disease users, using Authentication services
+
+we are using "https" here, so generate a security certificate and its key and place them inside the folder, inorder to run the program.
